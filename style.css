@@ -10,7 +10,7 @@ body{
     margin: 0px;
     padding: 8px;
     font-family:"Fredoka One", sans-serif;
-    box-shadow: 8px 8px 10px 3px darkorange
+    box-shadow: 8px 8px 10px 3px rgb(16, 2, 87)
     width;16%;}
 
 
@@ -21,7 +21,7 @@ body{
  
 
  body > header { 
-    background-color: orange;
+    background-color: rgb(6, 6, 64);
     color: white;
     display: flex;
     height: 15vh;
